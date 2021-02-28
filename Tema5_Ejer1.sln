@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema5_Ejer1", "Tema5_Ejer1\Tema5_Ejer1.csproj", "{F7C01A50-3E98-43A0-A74E-D4FCDE41CB48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba", "Prueba\Prueba.csproj", "{F9595958-4912-4F33-8E33-EB655C8DCB8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7C01A50-3E98-43A0-A74E-D4FCDE41CB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C01A50-3E98-43A0-A74E-D4FCDE41CB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C01A50-3E98-43A0-A74E-D4FCDE41CB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C01A50-3E98-43A0-A74E-D4FCDE41CB48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9595958-4912-4F33-8E33-EB655C8DCB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9595958-4912-4F33-8E33-EB655C8DCB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9595958-4912-4F33-8E33-EB655C8DCB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9595958-4912-4F33-8E33-EB655C8DCB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {725476C4-F07E-42D5-B83A-AF8569398498}
+	EndGlobalSection
+EndGlobal
